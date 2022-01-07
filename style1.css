@@ -1,6 +1,31 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: white;
+    background-color: whitesmoke;
     color: black;
 
+}
+
+.title {
+    color: gray;
+}
+
+.title_2 {
+    color: darkgray;
+}
+
+.title_3 {
+    color: black;
+}
+
+
+#id_1 {
+    color: green;
+}
+
+#id_2 {
+    color: green;
+}
+
+h4 {
+    color: orange;
 }
