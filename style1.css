@@ -29,3 +29,39 @@ body {
 h4 {
     color: orange;
 }
+
+#id_3:hover {
+    color: orange;
+}
+
+li:first-child {
+    color: gray;
+}
+
+li:last-child {
+    color: coral;
+}
+
+li:nth-child(2) {
+    color: darkviolet;
+}
+
+#Google-link-a:link {
+    color: pink;
+}
+
+#Google-link-a:visited {
+    color: red;
+}
+
+textarea ~ button {
+    color: brown
+}
+
+p[id=para_1] {
+    color: darkcyan;
+}
+
+img[src*="https://avatars.githubusercontent.com"] {
+    border: 5px solid black
+}
